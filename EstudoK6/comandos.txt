@@ -1,0 +1,5 @@
+k6 login cloud --token 5bddd1ae69ed3ec21481f8f2c2b0f4c4c2a38d8413139b58e1a598aed8fd6902
+
+
+
+k6 cloud test.js
